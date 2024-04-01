@@ -17,7 +17,7 @@
 
 <div>
 <img  height="180em"  alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=LeoMouzart&show_icons=true&theme=dracula" ><br>
-<img height="180em" align="center" alt="github progress" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dracula" >
+<img height="180em" align="center" alt="github progress" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMouzart&hide_progress=true&theme=dracula" >
 <div><br>
 
 
