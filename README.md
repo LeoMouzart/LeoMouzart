@@ -12,8 +12,8 @@
 
 #### Com o que atuo atualmente :
 
-    - Cursando Análise e desenvolvimento de sistemas
-    - Participando da jornada tecnológica e socioemocional KICK
+    - Cursando Ciência da Computação - Unip
+   
 
 <div>
 <img  height="180em"  alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=LeoMouzart&show_icons=true&theme=dracula" ><br>
