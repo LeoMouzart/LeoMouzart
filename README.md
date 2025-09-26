@@ -12,7 +12,7 @@
 
 #### Com o que atuo atualmente :
 
-#### - Cursando Ciência da Computação - Unip
+#### Cursando Ciência da Computação - Unip
    
 
 <div>
