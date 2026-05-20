@@ -111,11 +111,6 @@ class LeonardoMouzart:
 
 <div align="center">
 
-### 📈 Visitas ao Perfil
-
-![Visitor Count](https://profile-counter.glitch.me/LeoMouzart/count.svg)
-
----
 
 ⭐ **Feito com dedicação por Leonardo Mouzart** | *Vamos criar algo incrível juntos!* 🚀
 
